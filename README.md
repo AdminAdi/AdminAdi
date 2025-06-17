@@ -1,7 +1,5 @@
 ## 👨‍💻 Coding in Action!
 
-![Aditya Coding](https://github.com/AdminAdi/AdminAdi/blob/main/Vanilla@1x-1.0s-280px-250px.gif)
-
 
 # 💫 About Me:
 <br>Hello! I'm Aditya, a fresher with a passion for creating innovative software solutions, specializing in Web Development and DSA. I thrive on solving complex challenges and constantly pushing my boundaries to learn and grow.<br><br>🌱 Currently Learning: Exploring the transformative possibilities of Web Development 3.0, including decentralized applications and modern design principles.<br>💼 Projects: I love crafting impactful applications with technologies like React, MongoDB, and Express. My repositories below are a window into the creativity and problem-solving approach I bring to my work.<br>🔍 Looking For: Collaboration is the fuel for great ideas! I’m eager to team up on backend development projects, particularly those tackling real-world issues with elegant solutions.<br>🎯 Goals: Building robust, scalable applications that stand the test of time while giving back to the developer community through meaningful open-source contributions.<br>⚡ Fun Fact: Beyond coding, I'm an avid tech explorer who’s always excited about discovering cutting-edge innovations. I also enjoy sharing my insights with others—let's connect and exchange ideas!<br><br>
