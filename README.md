@@ -109,10 +109,12 @@
 
 ## 🌇 Live GitHub Skyline (3D Contribution Graph)
 
-[![GitHub Skyline Preview](https://skyline3d.in/AdminAdi/preview?endDate=2025-06-29)](https://skyline3d.in/AdminAdi/embed?endDate=2025-06-29)
+<p align="center">
+  <a href="https://skyline3d.in/AdminAdi/embed?endDate=2025-06-29" target="_blank">
+    <img src="https://img.shields.io/badge/🌃%20Click%20to%20View%203D%20Skyline-blueviolet?style=for-the-badge" alt="GitHub Skyline Badge" />
+  </a>
+</p>
 
-
----
 
 ## 💭 Quote of the Day
 <p align="left">
